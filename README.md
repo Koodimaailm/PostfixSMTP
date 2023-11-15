@@ -1,6 +1,6 @@
 # PostfixSMTP
 
-## TO USE THIS AUTO SETUU
+## TO USE THIS AUTO SETUP
 
 ```
 sudo chmod +x posftixmail.sh
